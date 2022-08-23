@@ -1,0 +1,124 @@
+.body{
+    margin: 0px;
+    padding: 0pc;
+    box-sizing: border-box;
+    background-color: #0e7490;
+}
+.heading{
+    display: block;
+    text-align: center;
+    background-color:#155e75;
+    padding: 1rem;
+}
+.main{
+    background-color:#cffafe;
+}
+.heading h1{
+    font-family: cursive;
+    font-size: xx-large;
+    padding: 0rem 1rem;
+    color:#cffafe;
+}
+.img{
+    padding: 0.5rem;
+    display: block;
+    margin:auto;
+    text-align: center;
+    
+}
+.hodor{
+    max-width: 350px;
+}
+.p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    display: block;
+    font-size: xx-large;
+    font-style: italic;
+    text-align:center;
+}
+.pans{
+    font-family:cursive;
+    font-weight: bolder;
+    display: block;
+    font-size: medium;
+    font-style: italic;
+    text-align:center;
+    margin: auto;
+    color:darkgoldenrod;
+    margin-bottom: 1rem;
+}
+#txt-input{
+    display: block;
+    width: 40vh;
+    height: 15vh;
+    text-align: center;
+    margin:auto;
+    padding: 0.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    padding: 1rem;
+}
+#txt-output{
+    display: block;
+    height: 15vh;
+    width: 40vh;
+    text-align: center;
+    margin: auto;
+    padding: 0.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: medium;
+    font-weight: bold;
+    padding: 1rem;
+}
+.txt{
+    padding: 0.5rem;
+}
+#btnTranslator{
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding: 0.6rem;
+    background-color: #164e63;
+    border: none;
+    font-weight: bolder;
+    cursor: pointer;
+    color: white;
+    border-radius: 20px;
+    font-size: large;
+    border: 2px solid black;
+}
+.footer{
+    margin-top: 2rem;
+    margin-bottom: -1rem;;
+    padding-top: 0rem;
+    border-top: 3px solid #14213d;
+    background-color: #155e75;
+ }
+ 
+ .footer div{
+    color: #14213d;
+    text-align: center;
+ }
+ 
+ .footer p{
+    font-size: 20px;
+    font-weight: 600;
+ }
+ 
+ .footer a{
+    padding-inline: 2rem;
+    font-size: 35px;
+    color: #cffafe;
+    text-decoration: none;
+ }
+ 
+ .footer .with-para{
+    padding-inline: 0rem;
+    font-size: 20px;
+    color: #14213d;
+    text-decoration: none;
+ }
