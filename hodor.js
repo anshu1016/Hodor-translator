@@ -11,7 +11,7 @@ function getTranslationLink(input){
 function errorHandler(error)
 {
     console.log("Some Error has been Occoured!, Wait for SomeTime..,error")
-    alert("We will be back soon, Sorry for INconvenience..")
+    alert("We will be back soon, Sorry for Inconvenience..")
 }
 function clickHandler(){
     var inputText = txtInput.value;
